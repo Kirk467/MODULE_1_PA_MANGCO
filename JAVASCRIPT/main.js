@@ -1,6 +1,5 @@
 import * as THREE from 'https://unpkg.com';
-import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
-import { texture } from 'three/tsl';
+import { OrbitControls } from 'https://unpkg.com';
 
 const scene = new THREE.Scene();
 scene.background = new THREE.Color(0xf3ede2);
