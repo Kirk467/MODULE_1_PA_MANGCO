@@ -1,5 +1,5 @@
-import * as THREE from 'https://unpkg.com';
-import { OrbitControls } from 'https://unpkg.com';
+import * as THREE from 'three';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 
 const scene = new THREE.Scene();
 scene.background = new THREE.Color(0xf3ede2);
